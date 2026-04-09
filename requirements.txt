@@ -1,0 +1,7 @@
+pycryptodome
+aiohttp
+protobuf
+protobuf-decoder
+flask
+pytz
+pyTelegramBotAPI
